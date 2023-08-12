@@ -1,2 +1,2 @@
-console.log('Dirk is the man!!!'); 
-console.log('Version 1')
+console.log('Dirk is a HOF!!!'); 
+console.log('Version 2')
